@@ -45,6 +45,7 @@ if [ -n "$(lspci | grep -i 'nvidia')" ]; then
     "libva-nvidia-driver" # For VA-API hardware acceleration
     "qt5-wayland"
     "qt6-wayland"
+    "cuda"
   )
 
   yay -S --needed --noconfirm "${PACKAGES_TO_INSTALL[@]}"

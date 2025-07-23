@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Fork
+Comment=Fork
+Exec=/home/kristof/Software/GitFourchette-1.4.0-x86_64.AppImage
+Terminal=false
+Type=Application
+Icon=/home/kristof/.local/share/applications/icons/Fork.png
+StartupNotify=true
