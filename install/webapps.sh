@@ -8,4 +8,5 @@ if [ -z "$OMARCHY_BARE" ]; then
   web2app "Gemini" https://gemini.google.com/ https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg
   web2app "GitHub" https://github.com/ https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png
   web2app "Omarchy Manual" https://manuals.omamix.org/2/the-omarchy-manual https://manuals.omamix.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgsInB1ciI6ImJsb2JfaWQifX0=--c26606490139480f5bcb3cf91b09fc45825007f6/omarchy.jpg?disposition=attachment
+  web2app "Tailscale Admin" https://login.tailscale.com/admin/machines https://tailscale.gallerycdn.vsassets.io/extensions/tailscale/vscode-tailscale/1.0.0/1698786256133/Microsoft.VisualStudio.Services.Icons.Default
 fi
